@@ -1,4 +1,4 @@
 # Write your #display_rainbow method here
 def display_rainbow(string)
-  puts "R: #{0}, O: #{1}, Y: #{2}, G: #{3}, B: #{4}, I: #{5}, V: #{6}"
+  puts "R: #{string[0]}, O: #{string[1]}, Y: #{string[2]}, G: #{string[3]}, B: #{string[4]}, I: #{string[5]}, V: #{string[6]}"
 end
